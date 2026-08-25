@@ -11,7 +11,7 @@ The project demonstrates how modern data engineering pipelines can efficiently h
 ---
 
 ## 🏗️ Architecture
-Architecture.jpg
+(Architecture.jpg)
 
 ---
 
