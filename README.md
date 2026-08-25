@@ -11,7 +11,7 @@ The project demonstrates how modern data engineering pipelines can efficiently h
 ---
 
 ## 🏗️ Architecture
-![Real-Time Retail Data Engineering Architecture](Architecture/retail-data-engineering-architecture.png)
+![Real-Time Retail Data Engineering Architecture](Architecture.png)
 
 ---
 
